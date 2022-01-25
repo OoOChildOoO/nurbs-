@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/XCustomPlot.o
+debug/axistag.o
+debug/qcustomplot.o
+debug/xxwtracer.o
+debug/moc_mainwindow.o
+debug/moc_XCustomPlot.o
+debug/moc_axistag.o
+debug/moc_qcustomplot.o
+debug/moc_xxwtracer.o

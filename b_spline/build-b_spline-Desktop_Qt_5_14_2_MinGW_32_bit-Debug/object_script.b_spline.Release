@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/XCustomPlot.o
+release/axistag.o
+release/qcustomplot.o
+release/xxwtracer.o
+release/moc_mainwindow.o
+release/moc_XCustomPlot.o
+release/moc_axistag.o
+release/moc_qcustomplot.o
+release/moc_xxwtracer.o
